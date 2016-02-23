@@ -1,5 +1,5 @@
 class HelloWorld
 
-method Main requires ()
-
+    method Main requires ()
+      print "Hello world"
 
